@@ -50,9 +50,20 @@
 Always excited to learn, experiment, and build! 🚀
 <br/>
 
+---
 
+<!-- technology  -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🔥 Current Activities</h2></summary>
+  </ul>
+</div>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,firebase,cpp,figma,github,git,postman,vscode&perline=6" />
+  </a>
+</p>
 
 -----
 
@@ -85,3 +96,7 @@ Always excited to learn, experiment, and build! 🚀
           <img src="https://streak-stats.demolab.com?user=khaironnahar4" alt="GitHub Streak" />
           </a>
        </p>
+
+
+-----
+
