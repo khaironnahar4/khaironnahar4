@@ -1,8 +1,15 @@
 
-<!--Banner image-->
-<img src="https://i.ibb.co.com/fYVsvpqy/bannerfor-Readme.gif">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--my intro-->
+<!--- banner -->
+<div align="center">
+  <img  src="https://i.ibb.co.com/fYVsvpqy/bannerfor-Readme.gif"
+       alt="my-banner" /></a>
+</div>
+
+
+<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Khairun Nahar</h1></summary>
@@ -10,19 +17,12 @@
   </ul>
 </div>
 
+
+
 <!--h2 without bottom border-->
 <!-- <div id="user-content-toc">
   <ul align="center">
     
   </ul>
 </div> -->
-
-
-<!--- snake -->
-<div align="center">
-  <img  src=""
-       alt="my-banner" /></a>
-</div>
-
-
 
