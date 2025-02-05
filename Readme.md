@@ -50,6 +50,10 @@
 Always excited to learn, experiment, and build! 🚀
 <br/>
 
+
+
+
+
 -----
 
 <!-- Github states  -->
@@ -78,6 +82,6 @@ Always excited to learn, experiment, and build! 🚀
         <p align="center">
           <a href="https://github.com/khaironnahar4/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=khaironnahar4&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img src="https://streak-stats.demolab.com?user=khaironnahar4&theme=dark" alt="GitHub Streak" />
           </a>
-          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khaironnahar4" alt="GitHub Streak" /></a>
        </p>
