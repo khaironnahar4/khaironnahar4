@@ -15,6 +15,8 @@
   </ul>
 </div>
 
+-----
+
 <!-- about me section -->
 <div id="user-content-toc">
   <ul align="center">
@@ -22,9 +24,9 @@
   </ul>
 </div>
 
----
-
 <p>Hey there! I'm a passionate Web Developer who loves turning ideas into functional and visually appealing web applications. I enjoy working on both frontend and backend development, constantly learning new technologies, and building user-friendly experiences. <br>🚀 I'm always excited to build, collaborate, and learn in the world of web development. Let’s connect and create something awesome! </p>
+
+-----
 
 <!-- current activities section  -->
 <div id="user-content-toc">
@@ -32,8 +34,6 @@
     <summary><h2 style="display: inline-block">🔥 Current Activities</h2></summary>
   </ul>
 </div>
-
----
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -49,14 +49,14 @@
 
 Always excited to learn, experiment, and build! 🚀
 
+-----
+
 <!-- Github states  -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">💻 GitHub Profile Stats</h2></summary>
   </ul>
 </div>
-
----
 
  <summary><h3>Languages</h3></summary>
 <p align="center">
@@ -77,6 +77,5 @@ Always excited to learn, experiment, and build! 🚀
         <p align="center">
           <a href="https://github.com/khaironnahar4/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=khaironnahar4&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaironnahar4&theme=gruvbox&hide_border=true" />
           </a>
        </p>
