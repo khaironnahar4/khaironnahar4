@@ -15,7 +15,7 @@
   </ul>
 </div>
 
------
+---
 
 <!-- about me section -->
 <div id="user-content-toc">
@@ -26,7 +26,7 @@
 
 <p>Hey there! I'm a passionate Web Developer who loves turning ideas into functional and visually appealing web applications. I enjoy working on both frontend and backend development, constantly learning new technologies, and building user-friendly experiences. <br>🚀 I'm always excited to build, collaborate, and learn in the world of web development. Let’s connect and create something awesome! </p>
 
------
+---
 
 <!-- current activities section  -->
 <div id="user-content-toc">
@@ -55,17 +55,42 @@ Always excited to learn, experiment, and build! 🚀
 <!-- technology  -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🔥 Current Activities</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/khaironnahar4/">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,firebase,cpp,figma,github,git,postman,vscode&perline=6" />
   </a>
 </p>
 
------
+---
+
+<!-- Social Links -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+ <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/khairunnahar247/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/khaironnahar4/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:khaironnaha4@gamil.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    <a href="https://wa.me/+8801956301999" target="blank"><img align="center"
+    src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="azzar" height="30"/></a>
+    </p>
+
+---
 
 <!-- Github states  -->
 <div id="user-content-toc">
@@ -96,7 +121,3 @@ Always excited to learn, experiment, and build! 🚀
           <img src="https://streak-stats.demolab.com?user=khaironnahar4" alt="GitHub Streak" />
           </a>
        </p>
-
-
------
-
