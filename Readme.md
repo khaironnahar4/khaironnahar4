@@ -36,7 +36,7 @@
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🚀 Exploring **Motion.js & GSAP** to create smooth and modern web animations.
@@ -82,6 +82,6 @@ Always excited to learn, experiment, and build! 🚀
         <p align="center">
           <a href="https://github.com/khaironnahar4/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=khaironnahar4&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img src="https://streak-stats.demolab.com?user=khaironnahar4&theme=dark" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=khaironnahar4" alt="GitHub Streak" />
           </a>
        </p>
